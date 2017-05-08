@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <ID>1</ID>
+      <X>1.3</X>
+      <Y>2.03</Y>
+   </book>
+   <Node>
+      <finish>FOUND</finish>
+   </Node>
+</catalog>
